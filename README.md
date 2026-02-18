@@ -43,3 +43,7 @@ pentesting y ciberseguridad en entornos Linux.
 
 Todo el contenido publicado tiene fines **educativos** y está destinado
 exclusivamente a **entornos controlados o con autorización expresa**.
+
+---
+Si te gustan mis aportes puedes invitarme a un cafe.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C61UHTB1)
