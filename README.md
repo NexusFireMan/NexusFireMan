@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=go,bash,python,linux,git,github,html,css,js,vscode" alt="Tech stack icons" />
 </p>
 
-### Systems / Sistemas
+## Systems / Sistemas
 
 [![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
 [![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
@@ -40,6 +40,16 @@
 [![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
 [![Proxmox](https://img.shields.io/badge/Proxmox-111111?style=for-the-badge&logo=proxmox&logoColor=E57000)](https://www.proxmox.com/)
 [![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-111111?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/server)
+
+## Security Tools / Herramientas de seguridad
+
+[![Nmap](https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=2A84D2)](https://nmap.org/)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633)](https://portswigger.net/burp)
+[![Gobuster](https://img.shields.io/badge/Gobuster-111111?style=for-the-badge&logo=go&logoColor=00ADD8)](https://github.com/OJ/gobuster)
+[![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7)](https://www.wireshark.org/)
+[![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=2596CD)](https://www.metasploit.com/)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-111111?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)](https://www.openwall.com/john/)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-111111?style=for-the-badge&logo=owasp&logoColor=FFFFFF)](https://www.zaproxy.org/)
 
 ## Featured Repositories / Repositorios destacados
 
