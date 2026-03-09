@@ -1,83 +1,60 @@
-# 👋 Hola / Hi, soy Javier Durán
+# Javier Durán | NexusFireMan
 
-## ES
+**ES:** Ingeniería de workflows de pentesting, enfocada en automatización práctica de reconocimiento, enumeración y análisis técnico en entornos Linux.  
+**EN:** Pentesting workflow engineering focused on practical automation for reconnaissance, enumeration, and technical analysis in Linux environments.
 
-Me dedico a crear y mejorar flujos de trabajo reales para pentesting, con foco en automatización de reconocimiento, enumeración y análisis técnico en entornos Linux.
+`Perfil ES/EN · ES/EN profile` · `Offensive Security` · `Automation` · `Real-world tooling`
 
-Me interesa construir herramientas que:
-- reduzcan tareas repetitivas,
-- mejoren la consistencia durante auditorías,
-- y sean simples de usar en escenarios reales.
+[![GitHub followers](https://img.shields.io/github/followers/NexusFireMan?style=for-the-badge&logo=github)](https://github.com/NexusFireMan)
+[![Profile views](https://komarev.com/ghpvc/?username=NexusFireMan&style=for-the-badge)](https://github.com/NexusFireMan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusfireman.github.io/portfolio/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/C0C61UHTB1)
 
-### Proyectos principales
+## About / Sobre mí
 
-- [`gomap`](https://github.com/NexusFireMan/gomap)  
-  Escáner TCP en Go, rápido y orientado a uso práctico: CIDR, detección de servicios/versiones y salida `text/json/jsonl/csv`.
+**ES:** Diseño y mantengo herramientas de seguridad que reducen tareas repetitivas, mejoran la consistencia durante auditorías y facilitan resultados accionables.  
+**EN:** I design and maintain security tooling that reduces repetitive pentest tasks, improves consistency, and keeps output actionable.
 
-- [`pentest-workflow-scripts`](https://github.com/NexusFireMan/pentest-workflow-scripts)  
-  Framework modular en Bash para automatizar fases de recon y enum en laboratorios y entornos autorizados.
+### Current focus / Enfoque actual
 
-- [`CTF`](https://github.com/NexusFireMan/CTF)  
-  Writeups y resolución de máquinas (Dockerlabs, HackMyVM y más).
+- **ES:** Workflows modulares de pentesting  
+  **EN:** Modular pentesting workflows
+- **ES:** Automatización de recon y enumeración  
+  **EN:** Recon and enumeration automation
+- **ES:** Tooling práctico en Bash y Go para labs y entornos autorizados  
+  **EN:** Practical Bash and Go tooling for labs and authorized environments
 
-- [`portfolio`](https://github.com/NexusFireMan/portfolio)  
-  Portfolio técnico personal (HTML/CSS/JS) con CV en español e inglés.
+## Tech Stack
 
-### En qué estoy trabajando
+<p>
+  <img src="https://skillicons.dev/icons?i=go,bash,python,linux,git,github,html,css,js,vscode" alt="Tech stack icons" />
+</p>
 
-- Automatización de pentesting con enfoque modular
-- Enumeración eficiente con señal útil y menos ruido
-- Iteración continua de tooling en Bash y Go
+## Featured Repositories / Repositorios destacados
 
-### Contacto
+| Repository | ES | EN | Main Tech |
+|---|---|---|---|
+| [gomap](https://github.com/NexusFireMan/gomap) | Escáner TCP rápido en Go con soporte CIDR, detección de servicios/versiones, timeouts adaptativos y salida JSON/JSONL/CSV. | Fast TCP scanner in Go with CIDR support, service/version detection, adaptive timeout tuning, and JSON/JSONL/CSV output. | Go |
+| [pentest-workflow-scripts](https://github.com/NexusFireMan/pentest-workflow-scripts) | Framework modular en Bash para estructurar y automatizar fases de recon/enum. | Modular Bash framework to structure and automate recon/enum phases. | Bash/Shell |
+| [Exploits](https://github.com/NexusFireMan/Exploits) | Código educativo de explotación y material de laboratorio para CVEs y seguridad web (ej. XSS). | Educational exploit code and lab material for CVEs and web security (e.g., XSS). | Python + Labs |
+| [CTF](https://github.com/NexusFireMan/CTF) | Writeups de máquinas CTF y notas técnicas de plataformas/labs de entrenamiento. | CTF machine writeups and technical notes from training platforms/labs. | Markdown |
+| [portfolio](https://github.com/NexusFireMan/portfolio) | Portfolio técnico personal con recursos CV en español e inglés. | Personal technical portfolio with bilingual CV resources. | HTML/CSS/JS |
+| [nexusfireman.github.io](https://github.com/NexusFireMan/nexusfireman.github.io) | Sitio público para mostrar proyectos y publicar writeups. | Public site for project showcase and writeup publication. | JavaScript/Frontend |
 
-- GitHub: https://github.com/NexusFireMan
-- Portfolio: https://nexusfireman.github.io/portfolio/
-- Email: `nexusfireman@proton.me`
+## GitHub Snapshot
 
----
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NexusFireMan&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusFireMan&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
 
-## EN
-
-I build and improve practical pentesting workflows, focused on automating reconnaissance, enumeration, and technical analysis in Linux environments.
-
-I care about tools that:
-- remove repetitive tasks,
-- improve consistency during assessments,
-- and stay simple enough for real-world use.
-
-### Main projects
-
-- [`gomap`](https://github.com/NexusFireMan/gomap)  
-  A fast Go-based TCP scanner built for practical usage: CIDR support, service/version detection, and `text/json/jsonl/csv` output.
-
-- [`pentest-workflow-scripts`](https://github.com/NexusFireMan/pentest-workflow-scripts)  
-  A modular Bash framework to automate recon and enumeration phases in labs and authorized environments.
-
-- [`CTF`](https://github.com/NexusFireMan/CTF)  
-  Machine writeups and walkthrough notes (Dockerlabs, HackMyVM and more).
-
-- [`portfolio`](https://github.com/NexusFireMan/portfolio)  
-  Personal technical portfolio (HTML/CSS/JS) with Spanish and English CVs.
-
-### Current focus
-
-- Modular pentesting automation
-- Efficient enumeration with better signal-to-noise
-- Continuous tooling iteration in Bash and Go
-
-### Contact
+## Contact / Contacto
 
 - GitHub: https://github.com/NexusFireMan
 - Portfolio: https://nexusfireman.github.io/portfolio/
 - Email: `nexusfireman@proton.me`
 
----
+## Legal Notice / Aviso legal
 
-## ⚠️ Aviso legal / Legal notice
-
-Todo el contenido se publica con fines educativos. Uso exclusivo en entornos controlados o con autorización explícita.  
-All content is for educational purposes only. Use only in controlled environments or with explicit authorization.
-
-Si te gustan mis aportes puedes invitarme a un café / If you find my work useful, you can support me here:  
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C61UHTB1)
+**ES:** Todo el contenido se publica con fines educativos. Uso exclusivo en entornos controlados o con autorización explícita.  
+**EN:** All content is published for educational purposes only. Use exclusively in controlled environments or with explicit authorization.
