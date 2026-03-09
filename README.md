@@ -44,14 +44,16 @@
 ## GitHub Snapshot
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NexusFireMan&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexusFireMan&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NexusFireMan&theme=github_dark" alt="GitHub profile summary" />
+</p>
+<p>
+  <img height="195" src="https://streak-stats.demolab.com?user=NexusFireMan&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## Contact / Contacto
 
 - GitHub: https://github.com/NexusFireMan
-- Portfolio: https://nexusfireman.github.io/portfolio/
+- Portfolio: https://nexusfireman.github.io
 - Email: `nexusfireman@proton.me`
 
 ## Legal Notice / Aviso legal
