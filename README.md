@@ -7,7 +7,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/NexusFireMan?style=for-the-badge&logo=github)](https://github.com/NexusFireMan)
 [![Profile views](https://komarev.com/ghpvc/?username=NexusFireMan&style=for-the-badge)](https://github.com/NexusFireMan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusfireman.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexusfireman.github.io)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/C0C61UHTB1)
 
 ## About / Sobre mí
@@ -29,6 +29,17 @@
 <p>
   <img src="https://skillicons.dev/icons?i=go,bash,python,linux,git,github,html,css,js,vscode" alt="Tech stack icons" />
 </p>
+
+### Systems / Sistemas
+
+[![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624)](https://www.kernel.org/)
+[![Windows](https://img.shields.io/badge/Windows-111111?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=52B0E7)](https://www.kali.org/)
+[![Parrot](https://img.shields.io/badge/Parrot_OS-111111?style=for-the-badge&logo=parrotsecurity&logoColor=15E0ED)](https://www.parrotsec.org/)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-111111?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows-server)
+[![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED)](https://www.docker.com/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-111111?style=for-the-badge&logo=proxmox&logoColor=E57000)](https://www.proxmox.com/)
+[![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-111111?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/server)
 
 ## Featured Repositories / Repositorios destacados
 
